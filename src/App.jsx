@@ -48,7 +48,7 @@ export default function App() {
             Freelancer | Developer | Tech Enthusiast
           </p>
           <a
-            href="https://drive.google.com/file/d/1BdI88skmq-1ujeOwFM8OwCHRdjQfP3I5/view?usp=sharing"
+            href="https://drive.google.com/file/d/1EAnepo3qR4o9KtckhFSILe4ZmaulYZXf/view?usp=sharing"
             target="_blank"
             rel="noreferrer"
             className="inline-block mt-4 px-6 py-3 border border-purple-400 rounded-full font-semibold hover:bg-purple-500 hover:border-purple-500 transition"
