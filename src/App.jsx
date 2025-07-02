@@ -155,16 +155,16 @@ export default function App() {
       {/* Coding Profiles */}
       <Section id="coding" title="CODING PROFILES">
         <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-6 text-lg text-purple-300">
-          <a href="https://leetcode.com/Ishaanjain14/" target="_blank" rel="noreferrer" className="flex items-center gap-2 hover:underline">
+          <a href="https://leetcode.com/ishaan__jain14/" target="_blank" rel="noreferrer" className="flex items-center gap-2 hover:underline">
             <SiLeetcode className="text-yellow-400" /> LeetCode
           </a>
-          <a href="https://auth.geeksforgeeks.org/user/ishaanjain14" target="_blank" rel="noreferrer" className="flex items-center gap-2 hover:underline">
+          <a href="https://www.geeksforgeeks.org/user/jainishje7m/" target="_blank" rel="noreferrer" className="flex items-center gap-2 hover:underline">
             <SiGeeksforgeeks className="text-green-500" /> GeeksforGeeks
           </a>
-          <a href="https://www.codingninjas.com/studio/profile/7a6d0b48-79d1-43f5-a418-7d8810e5e396" target="_blank" rel="noreferrer" className="flex items-center gap-2 hover:underline">
+          <a href="https://www.naukri.com/code360/profile/Ishaanjain" target="_blank" rel="noreferrer" className="flex items-center gap-2 hover:underline">
             <SiCodingninjas className="text-orange-500" /> Coding Ninjas
           </a>
-          <a href="https://codeforces.com/profile/Ishaanjain14" target="_blank" rel="noreferrer" className="flex items-center gap-2 hover:underline">
+          <a href="https://codeforces.com/profile/jainishaan987" target="_blank" rel="noreferrer" className="flex items-center gap-2 hover:underline">
             <SiCodeforces className="text-red-500" /> Codeforces
           </a>
         </div>
