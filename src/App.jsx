@@ -94,7 +94,7 @@ export default function App() {
           <div>
             <h3 className="font-bold text-purple-300">NIT Jalandhar</h3>
             <p>B.Tech in Information Technology (2023 – Present)</p>
-            <p>CGPA: 8.38</p>
+            <p>CGPA: 8.49</p>
           </div>
           <div>
             <h3 className="font-bold text-purple-300">Cambridge International School</h3>
