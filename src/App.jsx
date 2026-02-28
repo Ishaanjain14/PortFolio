@@ -94,7 +94,7 @@ export default function App() {
           <div>
             <h3 className="font-bold text-purple-300">NIT Jalandhar</h3>
             <p>B.Tech in Information Technology (2023 – Present)</p>
-            <p>CGPA: 8.49</p>
+            <p>CGPA: 8.53</p>
           </div>
           <div>
             <h3 className="font-bold text-purple-300">Cambridge International School</h3>
@@ -148,7 +148,7 @@ export default function App() {
           <li>International Rank 12 – International Mathematics Olympiad (IMO) 2021</li>
           <li>1st Runner Up – Code Relay 2025</li>
           <li>Member – CyberNauts & Web Dev Club</li>
-          <li>500+ DSA problems solved (LeetCode, GFG, Coding Ninjas)</li>
+          <li>700+ DSA problems solved (LeetCode, GFG, Coding Ninjas)</li>
         </ul>
       </Section>
 
