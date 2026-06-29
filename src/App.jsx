@@ -45,7 +45,7 @@ export default function App() {
             Hi There! 👋<br />I'M <span className="text-purple-400">ISHAAN JAIN</span>
           </h1>
           <p className="text-purple-300 text-xl font-medium">
-            SWE Intern @ Microsoft (Summer 2026) | Full Stack Developer | AI & ML Enthusiast
+            SWE Intern @ Microsoft | Full Stack Developer | AI & ML Enthusiast
           </p>
           <a
             href="https://drive.google.com/file/d/1EAnepo3qR4o9KtckhFSILe4ZmaulYZXf/view?usp=sharing"
